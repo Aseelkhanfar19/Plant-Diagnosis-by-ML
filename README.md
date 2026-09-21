@@ -12,7 +12,12 @@
       
 **``Dataset``** : https://drive.google.com/file/d/1fCihcbZTQzWQhjz6U051XK95qwFhauiU/view?usp=sharing.    
     
-**``The model [ keras ]``** : https://drive.google.com/file/d/1pF78LQTC3DDR44SHbJPhoz_mR0UrDcIK/view?usp=drive_link
+**``The model [ keras ]``** : https://drive.google.com/file/d/1pF78LQTC3DDR44SHbJPhoz_mR0UrDcIK/view?usp=drive_link   
+    
+**``remove_redanduncy``** : Python script for checking the duplication in ``2 datasets`` or ``2 folders``
 
-**⚠️NOTE : Due to cannot upload the large files , so you can reach the ``dataset`` and ``keras model`` by ``google drive links``**
+**⚠️NOTE : Due to cannot upload the large files , so you can reach the ``dataset`` and ``keras model`` by ``google drive links``** 
+     
+## 💻 Important Code Implementation   
+
 
