@@ -1,5 +1,5 @@
 # 🌿 Plant Disease Detection: Model Training & Dataset 
-![process image](Gemini_Generated_Image_2y7htx2y7htx2y7h%20(1).jpeg)
+![process image](imgs/plant-icon.jpeg)
 
 ## Welcome! This repository is dedicated entirely to the machine learning pipeline of our project. Here, you will find everything related to the **data preparation**, **model architecture**, and the **training process**.
 
