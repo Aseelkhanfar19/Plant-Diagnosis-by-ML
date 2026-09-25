@@ -18,6 +18,9 @@
 
 **⚠️NOTE : Due to cannot upload the large files , so you can reach the ``dataset`` and ``keras model`` by ``google drive links``** 
      
-## 💻 Important Code Implementation   
+## 💻 Important Code Implementation    
+<h3>1- remove_redanduncy</h3>
+![get Image](imgs/getImagesMethod.png)
+
 
 
