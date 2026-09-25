@@ -80,6 +80,12 @@ target_disease = r"C:\Users\aseel\Downloads\targetData"
 # Your existing/main dataset
 the_whole_diseases = r"C:\Users\aseel\Downloads\mainData"
 ```
+<br/>
+<br/>
+
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/abbd5db0-4757-4725-b8f3-75b3beab04af" /> Results    
+![rresult](imgs/resultOfDupication.png)     
+After running the script, duplicate images are reported by showing the path of the image in the target dataset and the path of its identical copy in the main dataset.
 
 
 
